@@ -1,0 +1,7 @@
+# *
+
+User-agent: *
+Allow: /
+
+#Sitemaps
+Sitemap: https://tictactoe-2bf54.web.app/sitemap.xml
